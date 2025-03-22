@@ -1,1 +1,1 @@
-import mew2.32
+import mew2_32
